@@ -7,6 +7,7 @@
 - 🔥 Working for [Spatial Databases Lab](http://geodb.uos.ac.kr) 🔬
 - Also do 🎨 vector graphic work 👇 sometimes for fun!
 <img src ="https://user-images.githubusercontent.com/87423085/130342061-9e17b2da-dce8-4087-8b2c-745e8a94f714.jpg" width="30%" height="30%"/>
+<img src ="https://user-images.githubusercontent.com/87423085/130342191-3f8b2ac4-8683-47bf-b51c-30b15fd69e6a.png" width="40%" height="40%">
 
 
 ## How to contact me
