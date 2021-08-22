@@ -9,7 +9,7 @@
 ## How to contact me
 - E-mail ✉️ : custardcream@kakao.com
 - [Naver Blog](https://blog.naver.com/sg05098) 😉
-
+--------------
 <!---
 custardcream98/custardcream98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
