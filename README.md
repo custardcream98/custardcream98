@@ -3,7 +3,7 @@
 ## Introduce
 - [Univ. Of Seoul](https://www.uos.ac.kr/en/main.do?epTicket=INV) Junior Student ✏️📖
 - Majoring [Geoinformatics](https://www.uos.ac.kr/en/academics/colleges/cuscience/geolnformatics/introduction.do) 🧭
-- Learning Python, GIS, Database 👨‍💻
+- Learning Python, R, C#, GIS, Database(SQL) 👨‍💻
 - 🔥 Working for [Spatial Databases Lab](http://geodb.uos.ac.kr) 🔬
 - Also do 🎨 vector graphic work 👇 sometimes for fun!
 <img src ="https://user-images.githubusercontent.com/87423085/130342061-9e17b2da-dce8-4087-8b2c-745e8a94f714.jpg" width="30%" height="30%"/>
