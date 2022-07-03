@@ -41,7 +41,7 @@ and ArcGIS, QGIS, MATLAB
 
 # 🧑‍💻 저는 이런 일을 했어요!
 
-[이력서 보러가기](https://docs.google.com/document/d/1WTn-LQO5W6jqV8wTwaFLA0Y9Pdl3lawRbMfiVWiAoPY/edit)
+[LinkedIn 보러가기](https://www.linkedin.com/in/shi-woo-park-668b33147/)
 
 ## 경로 기반 일정 스케줄링 크로스플랫폼 어플리케이션 개발
 
