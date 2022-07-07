@@ -1,6 +1,6 @@
 # ⛑️ 삽질이야 말로 최선의 공부 아닐까요
 
-항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하는 예비 개발자입니다.
+항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하고 실천하고자 노력합니다.
 
 프론트, 백엔드 가리지 않고 관심있어 최선을 다해 공부중입니다.
 
@@ -47,13 +47,13 @@ and ArcGIS, QGIS, MATLAB
 
 [졸업작품 설명 보러가기](https://uos-urbanscience.org/archives/uos_portfolio/%eb%8f%99%ec%84%a0%ec%9d%84-%ea%b3%a0%eb%a0%a4%ed%95%9c-all-in-one-%ec%9d%bc%ec%a0%95-%ec%8a%a4%ec%bc%80%ec%a4%84%eb%a7%81-%ec%84%9c%eb%b9%84%ec%8a%a4)
 
+[Github Repo](https://github.com/Dayplan-it/Dayplan.it)
+
 `Flutter`와 `Django`, `PostgreSQL`을 이용해 크로스플랫폼 어플리케이션을 개발했습니다. 개발 전반에 걸쳐서 풀스택 개발자로서 참여했으며, Github를 이용한 Git-flow 기반의 협업을 경험했고, Spatial Database 설계 및 구축, AWS를 이용한 서버 Deploy등을 해봤습니다.
 
 특히, '일정'이라는 복잡한 데이터를 어떻게 하면 효율적으로 Database에 저장할 수 있을지, Server와 Front-End에서 각각 데이터를 어떻게 Serialize, Deserialize 할 수 있을지, 또 이를 위해 각 객체를 어떻게 설계해야 할지 등을 유기적으로 고민하는 과정을 거치며 크게 성장했어요.
 
 단 둘뿐인 팀에서 3 ~ 4개월 만에 서비스가 가능한 수준의 어플리케이션을 개발하는 과정이 쉽지는 않았지만, **도시과학대학장 상 수상**이라는 좋은 결과를 얻었어요! 개발자가 되기로 마음먹은 계기가 된 정말 고마운 프로젝트였어요.
-
-[Github Repo](https://github.com/Dayplan-it/Dayplan.it)
 
 ## 인천시 생활폐기물 발생량 분석 및 예측 모델 개발
 
@@ -73,7 +73,13 @@ and ArcGIS, QGIS, MATLAB
 
 [챗봇 기능 구경가기](https://blog.naver.com/sg05098/222596637921)
 
-## 기타 여러 토이 프로젝트들!
+## 미니멀리즘 메모 Web App
+
+[Github Repo](https://github.com/custardcream98/block-it)
+
+Flutter를 이용해 개발중인 메모 웹 앱입니다. 간편하게 딱 메모만 할 수 있는 어플리케이션이 생각보다 마땅치 않아 시작하게 된 프로젝트입니다. Flutter에는 쓸만한 Rich Text Editor가 없어 직접 Widget을 개발하고 있습니다.
+
+작성한 메모는 Back-End를 아직 사용하는 않고 IndexedDB를 사용해 저장합니다. 추후 Serialize할 수 있도록 메모 객체를 설계하는 데에 공을 들이고 있습니다. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcustardcream98&count_bg=%234C7CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
