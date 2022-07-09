@@ -6,6 +6,8 @@
 
 # 🛠️ 이런걸 할줄 알아요
 
+[이력서 (Notion)](https://www.notion.so/custardcream/09b6b86040a545c8849c729eb9745768)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
