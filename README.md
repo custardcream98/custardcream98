@@ -4,9 +4,12 @@
 
 프론트, 백엔드 가리지 않고 관심있어 최선을 다해 공부중입니다.
 
-# 🛠️ 이런걸 할줄 알아요
+[LinkedIn](https://www.linkedin.com/in/shi-woo-park-668b33147/)
 
-[이력서 (Notion)](https://www.notion.so/custardcream/09b6b86040a545c8849c729eb9745768)
+[이력서 Notion](https://www.notion.so/custardcream/09b6b86040a545c8849c729eb9745768)
+
+
+# 🛠️ 이런걸 할줄 알아요
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -42,8 +45,6 @@ and ArcGIS, QGIS, MATLAB
 + 코딩테스트, CS공부
 
 # 🧑‍💻 저는 이런 일을 했어요!
-
-[LinkedIn 보러가기](https://www.linkedin.com/in/shi-woo-park-668b33147/)
 
 ## 경로 기반 일정 스케줄링 크로스플랫폼 어플리케이션 개발
 
