@@ -13,12 +13,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -39,7 +41,6 @@ and ArcGIS, QGIS, MATLAB
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 + 코딩테스트, CS공부
@@ -66,15 +67,23 @@ and ArcGIS, QGIS, MATLAB
 
 분석을 하며 가장 힘들었던건 정제되지 않은 데이터를 체계적으로 정리하는 과정이였어요. 전혀 체계가 잡혀있지 않은 체 중구난방으로 생성된 원 데이터들을 보며, 질 좋은 데이터를 만드는 일이 얼마나 중요한건지 배울 수 있었습니다.
 
-## 카카오톡, 디스코드 채팅봇
+## 금연 타이머 Smoquit #노담이면_좋겠어
+
+[Github Repo](https://github.com/custardcream98/smoquit)
+
+`React.js`, `React-Redux`, `React-Bootstrap`, `Firebase` 등의 스택을 사용해 개발한 금연 타이머입니다. 평소에 금연을 도전하지만 계속해서 실패했던 이유가 금연에 대한 동기 부여가 부족했기 때문이라고 생각했고, 금연을 시작하면 실시간으로 지금까지 지킨 금연이 내게 얼마나 큰 이익을 줬는지 보여주는 Web App을 만들어야겠다 생각했습니다.
+
+로그인, 도전 내역 조회(최신순, 기록순), 프로필 수정, 리더보드 등의 기능을 구현했습니다.
+
+Github Pages로 앱을 Deploy하며 '왜 `HashRouter`로 배포하지 않으면 안되는걸까?' 라는 물음을 해결하며 Web Server가 정적인 웹사이트만을 제공하는 경우 SPA의 Routing을 어떻게 하면 좋을지에 대해 연구했고, Hashed Route(Fragment)가 아닌 `BrowserRouter`를 이용해 정상적인 path를 가진 React App을 배포할 수 있었습니다.
+
+[챗봇 기능 구경가기](https://blog.naver.com/sg05098/222596637921)
 
 21.08부터 개발을 시작한 챗봇이에요. `Node.js`를 이용해 개발했는데, 처음에는 재미로 시작했던게 하나 둘 기능을 붙여나가다보니 지금은 20~30개의 기능을 가진 챗봇이 됐어요.
 
 특히, 암호화폐, NFT 관련 기능이 아주 강력해요. 그래서인지 지금은 무려 약 500여명의 사용자가 있는 봇입니다.
 
 > 재미로 시작했던 프로젝트라 기능을 덕지덕지 붙이다보니 코드가 금새 더러워졌어요. 그래도 잘 돌아가니 크게 고칠 필요성을 못느끼고 있다가, 버그가 발생해 고치려고 달려드니 너무 복합한 구조 때문에 엄청 애를 먹은 일이 있었어요. 그 후 객체지향 프로그래밍, 소프트웨어 아키텍처의 중요성을 깨닫고, 열심히 고쳐나가고 있어요! (물론 서비스에는 지장이 없어요)
-
-[챗봇 기능 구경가기](https://blog.naver.com/sg05098/222596637921)
 
 ## 미니멀리즘 메모 Web App
 
