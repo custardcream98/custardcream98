@@ -77,6 +77,8 @@ and ArcGIS, QGIS, MATLAB
 
 Github Pages로 앱을 Deploy하며 '왜 `HashRouter`로 배포하지 않으면 안되는걸까?' 라는 물음을 해결하며 Web Server가 정적인 웹사이트만을 제공하는 경우 SPA의 Routing을 어떻게 하면 좋을지에 대해 연구했고, Hashed Route(Fragment)가 아닌 `BrowserRouter`를 이용해 정상적인 path를 가진 React App을 배포할 수 있었습니다.
 
+## 디스코드, 카카오톡 챗봇
+
 [챗봇 기능 구경가기](https://blog.naver.com/sg05098/222596637921)
 
 21.08부터 개발을 시작한 챗봇이에요. `Node.js`를 이용해 개발했는데, 처음에는 재미로 시작했던게 하나 둘 기능을 붙여나가다보니 지금은 20~30개의 기능을 가진 챗봇이 됐어요.
