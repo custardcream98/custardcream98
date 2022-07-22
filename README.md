@@ -69,6 +69,7 @@ and ArcGIS, QGIS, MATLAB
 
 ## 금연 타이머 Smoquit #노담이면_좋겠어
 
+[사용해보기](https://custardcream98.github.io/smoquit/)
 [Github Repo](https://github.com/custardcream98/smoquit)
 
 `React.js`, `React-Redux`, `React-Bootstrap`, `Firebase` 등의 스택을 사용해 개발한 금연 타이머입니다. 평소에 금연을 도전하지만 계속해서 실패했던 이유가 금연에 대한 동기 부여가 부족했기 때문이라고 생각했고, 금연을 시작하면 실시간으로 지금까지 지킨 금연이 내게 얼마나 큰 이익을 줬는지 보여주는 Web App을 만들어야겠다 생각했습니다.
