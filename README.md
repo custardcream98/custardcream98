@@ -35,15 +35,15 @@
 
 and ArcGIS, QGIS, MATLAB
 
-## ✍️ 지금은 이런 것들을 공부하고 있어요
+<!-- ## ✍️ 지금은 이런 것들을 공부하고 있어요
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) -->
 
-+ 코딩테스트, CS공부
+<!-- + 코딩테스트, CS공부 -->
 
 # 🧑‍💻 저는 이런 일을 했어요!
 
