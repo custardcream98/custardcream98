@@ -8,7 +8,7 @@
 
 [이력서 Notion](https://www.notion.so/custardcream/09b6b86040a545c8849c729eb9745768)
 
-[Blog](https://custardcream.netlify.app/)
+[Blog](https://custardcream.vercel.app/)
 
 
 # 🛠️ 이런걸 할줄 알아요
