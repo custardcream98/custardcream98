@@ -2,8 +2,6 @@
 
 항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하고 실천하고자 노력합니다.
 
-프론트, 백엔드 가리지 않고 관심있어 최선을 다해 공부중입니다.
-
 [LinkedIn](https://www.linkedin.com/in/shi-woo-park-668b33147/)
 
 [이력서 Web](https://custardcream98.github.io/resume/)
