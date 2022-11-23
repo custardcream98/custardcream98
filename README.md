@@ -34,7 +34,7 @@
 이후 단순히 개발에서 그치지 않고 웹의 성능을 향상시키고자 Lazy Loading, 서브셋 폰트 사용 등의 방법을 사용해 Lighthouse 기준 성능 점수를 77점에서 91점으로 끌어올렸습니다.([자세한 과정 포스팅](https://custardcream.vercel.app/posts/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20Share%20it!%EC%9D%98%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0#%EA%B2%B0%EB%A1%A0)) `React Helmet`도 적극적으로 사용해 SEO 또한 놓치지 않고자 했습니다.  
 
 ## 착한 이륜차 운전자 평가 모델 개발 연구용 설문 웹사이트 개발
-*1인, `TypeScript`, `Next.js`, `recoil`, `Tailwind CSS`*
+*1인, 연구실 연구과제, `TypeScript`, `Next.js`, `recoil`, `Tailwind CSS`*
 
 [배포된 설문지](https://goodrider-interview-web.vercel.app/)
 
