@@ -4,7 +4,7 @@
 
 [이력서 Web](https://custardcream98.github.io/resume/)
 
-[Blog](https://custardcream.vercel.app/)
+[Blog](https://shiwoo.dev/)
 
 <!-- ## ✍️ 지금은 이런 것들을 공부하고 있어요
 
