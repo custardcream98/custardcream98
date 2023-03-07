@@ -16,6 +16,13 @@
 
 <!-- + 코딩테스트, CS공부 -->
 
+# 📖 지금은 이런 프로젝트를 개발하고 있어요!
+
+* [**custard-ui - React Component Library**](https://github.com/custardcream98/custard-ui)
+  *1인, `TypeScript`, `React.js`, `Rollup`, `emotion`, `Storybook`*
+* [**DevPort - 이력서 기반 면접 질문 예상 서비스**](https://github.com/custardcream98/DevPort)
+  *1인, `TypeScript`, `Next.js`, `emotion`*
+
 # 🧑‍💻 저는 이런 일을 했어요!
 
 ## 스냅 사진사 SNS, Snappy
