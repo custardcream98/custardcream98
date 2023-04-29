@@ -2,7 +2,7 @@
 
 항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하고 실천하고자 노력합니다.
 
-[이력서 Web](https://custardcream98.github.io/resume/)
+[이력서 Web](https://shiwoo.dev/resume)
 
 [Blog](https://shiwoo.dev/)
 
