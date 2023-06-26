@@ -1,10 +1,33 @@
-# ⛑️ 삽질이야 말로 최선의 공부 아닐까요
+## ⛑️ 삽질이야 말로 최선의 공부 아닐까요
 
-항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하고 실천하고자 노력합니다.
+항상 더 좋은 방법, 더 효율적인 코드를 짜기 위해 고민하는 것이야 말로 개발자의 가장 중요한 덕목이라 생각하고 실천하고자 노력하는 프론트엔드 개발자입니다.
 
-[이력서 Web](https://shiwoo.dev/resume)
+🔗 Blog | https://shiwoo.dev
 
-[Blog](https://shiwoo.dev/)
+🔗 Resume | https://shiwoo.dev/resume
+
+📧 Contact | custardcream@kakao.com
+
+<br />
+<br />
+
+## Checkout my latest works:
+
+### utility-class-components
+
+[GitHub Repo](https://github.com/custardcream98/utility-class-components)
+
+Next.js 12 => 13 버전으로 블로그를 옮기며 서버 컴포넌트 사용시 스타일링을 어떻게 하면 좋을까를 고민하며 개발하게 된 라이브러리입니다. (서버 컴포넌트에서는 CSS-in-JS 라이브러리를 [사용할 수 없습니다.](https://nextjs.org/docs/app/building-your-application/styling/css-in-js))
+
+유틸리티 클래스를 제공하는 CSS 프레임워크와 조합해 마치 styled components를 사용하듯 코드를 작성할 수 있도록 도와줍니다.
+
+<br />
+<br />
+<br />
+<p align='center'>
+ <img src='https://github-readme-stats.vercel.app/api?username=custardcream98&show_icons=true&theme=transparent&include_all_commits=true'/>
+<!--  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=custardcream98&layout=compact'/> -->
+</p>
 
 <!-- ## ✍️ 지금은 이런 것들을 공부하고 있어요
 
@@ -16,7 +39,7 @@
 
 <!-- + 코딩테스트, CS공부 -->
 
-# 📖 지금은 이런 프로젝트를 개발하고 있어요!
+<!-- # 📖 지금은 이런 프로젝트를 개발하고 있어요!
 
 * [**custard-ui - React Component Library**](https://github.com/custardcream98/custard-ui)
   *1인, `TypeScript`, `React.js`, `Rollup`, `emotion`, `Storybook`*
@@ -119,9 +142,9 @@ Github Pages로 앱을 Deploy하며 '왜 `HashRouter`로 배포하지 않으면 
 
 분석용 데이터 관리를 위한 Spatial Database 설계와, 데이터 정제 및 약 200GB정도의 데이터가 담기는 데이터베이스 구축을 맡았고, GIS, Python 등을 이용해 데이터를 여러 각도에서 분석하고, 시각화 하는 일도 했습니다.
 
-분석을 하며 가장 힘들었던건 정제되지 않은 데이터를 체계적으로 정리하는 과정이였어요. 전혀 체계가 잡혀있지 않은 체 중구난방으로 생성된 원 데이터들을 보며, 질 좋은 데이터를 만드는 일이 얼마나 중요한건지 배울 수 있었습니다.
+분석을 하며 가장 힘들었던건 정제되지 않은 데이터를 체계적으로 정리하는 과정이였어요. 전혀 체계가 잡혀있지 않은 체 중구난방으로 생성된 원 데이터들을 보며, 질 좋은 데이터를 만드는 일이 얼마나 중요한건지 배울 수 있었습니다. -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcustardcream98&count_bg=%234C7CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcustardcream98&count_bg=%234C7CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!--
 ---------------
