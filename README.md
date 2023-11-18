@@ -13,9 +13,17 @@
 
 ## Checkout my latest works:
 
+### @custardcream/very-simple-store
+
+[Docs & Examples](https://custard-library-web.vercel.app/)
+
+Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
+
 ### utility-class-components
 
 [GitHub Repo](https://github.com/custardcream98/utility-class-components)
+
+[관련 블로그 포스트: CSS-in-JS와 서버 컴포넌트](https://shiwoo.dev/posts/next-13-and-css-in-js)
 
 Next.js 12 => 13 버전으로 블로그를 옮기며 서버 컴포넌트 사용시 스타일링을 어떻게 하면 좋을까를 고민하며 개발하게 된 라이브러리입니다. (서버 컴포넌트에서는 CSS-in-JS 라이브러리를 [사용할 수 없습니다.](https://nextjs.org/docs/app/building-your-application/styling/css-in-js))
 
