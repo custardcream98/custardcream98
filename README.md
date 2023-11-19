@@ -15,7 +15,7 @@
 
 ### @custardcream/very-simple-store
 
-[Docs & Examples](https://custard-library-web.vercel.app/)
+Docs & Examples: https://library.shiwoo.dev
 
 Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
 
