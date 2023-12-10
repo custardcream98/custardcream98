@@ -15,7 +15,9 @@
 
 ### @custardcream/very-simple-store
 
-Docs & Examples: https://library.shiwoo.dev
+[Docs & Examples](https://library.shiwoo.dev)
+
+[관련 블로그 포스트: 리액트 전역 상태 관리 라이브러리 개발해보기](https://shiwoo.dev/posts/global-state-management)
 
 Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
 
