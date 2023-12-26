@@ -13,6 +13,12 @@
 
 ## Checkout my latest works:
 
+### vscode-jarvis
+
+[GitHub Repo](https://github.com/custardcream98/vscode-jarvis)
+
+이 코드 뭐지 싶을 때 프로젝트에 관한건 뭐든 물어볼 수 있는 VSCode extension을 개발하고 있습니다.
+
 ### @custardcream/very-simple-store
 
 [Docs & Examples](https://library.shiwoo.dev)
