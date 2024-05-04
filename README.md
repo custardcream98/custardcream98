@@ -28,7 +28,7 @@
 Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
 -->
 
-### 한,타입
+### 한,타자
 
 [hantype.shiwoo.dev](https://hantype.shiwoo.dev)
 
