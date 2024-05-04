@@ -28,6 +28,14 @@
 Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
 -->
 
+### 한,타입
+
+[hantype.shiwoo.dev](https://hantype.shiwoo.dev)
+
+[GitHub Repo](https://github.com/custardcream98/han-type)
+
+한국어 타자 사이트중에 심플하게 딱 타자만 칠 수 있는 곳이 마땅찮아서 만들어봤습니다.
+
 ### utility-class-components
 
 [GitHub Repo](https://github.com/custardcream98/utility-class-components)
