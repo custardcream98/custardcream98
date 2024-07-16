@@ -48,11 +48,14 @@ Next.js 12 => 13 버전으로 블로그를 옮기며 서버 컴포넌트 사용�
 
 <br />
 <br />
+
+<!--
 <br />
 <p align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=custardcream98&show_icons=true&theme=transparent&include_all_commits=true'/>
 <!--  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=custardcream98&layout=compact'/> -->
 </p>
+-->
 
 <!-- ## ✍️ 지금은 이런 것들을 공부하고 있어요
 
