@@ -54,7 +54,7 @@ Next.js 12 => 13 버전으로 블로그를 옮기며 서버 컴포넌트 사용�
 <br />
 <p align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=custardcream98&show_icons=true&theme=transparent&include_all_commits=true'/>
-<!--  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=custardcream98&layout=compact'/> -->
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=custardcream98&layout=compact'/>
 </p>
 
 -->
@@ -65,7 +65,9 @@ Next.js 12 => 13 버전으로 블로그를 옮기며 서버 컴포넌트 사용�
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+-->
 
 <!-- + 코딩테스트, CS공부 -->
 
