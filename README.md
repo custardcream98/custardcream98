@@ -11,8 +11,10 @@
 <br />
 <br />
 
-## Checkout my latest works:
 <!--
+
+## Checkout my latest works:
+
 ### vscode-jarvis
 
 [GitHub Repo](https://github.com/custardcream98/vscode-jarvis)
@@ -28,6 +30,7 @@
 Recoil로부터 영감을 받은 전역 상태 관리 라이브러리입니다.
 -->
 
+<!--
 ### @custardcream/msw-devtools
 
 [GitHub Repo](https://github.com/custardcream98/msw-devtools)
